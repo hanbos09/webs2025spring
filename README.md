@@ -1,19 +1,7 @@
 # Project 3: Website Portfolio
 
-Your task in this unit is to **build a multi-page website using basic html and css files** — as opposed to a site manager like WordPress or Wix — **along with any media assets you wish to embed.** (Any JavaScript or animation you want to add for interactivity is welcome, but above and beyond expectations.) In assigning this, I have two main goals for you:
+For this project, I want to create a digital scrapbook, mainly for myself, but also for other people. I want to include a lot of pictures from my travels with captions and location markers.
 
-1. to learn how to manage a composite project made up of multiple interlinking files, and
-2. to explore the affordances of the web design stack as a medium, and especially its ability to _flexibly render content for multiple audiences or reading priorities_.
-
-As with the earlier projects, the selection of content is your choice. One relatively straightforward option for this unit is to stage and present the materials you produced earlier in the term! Depending on your needs and interests, however, you can also develop this into a more sustainable and public-facing platform from which to manage your online identities, or a mock-up of demo content you can use to show off your web-design skills. Whatever you choose, you should _consider your audience(s) and how they might land on your website, and where you therefore wish to direct their attention and next steps._
-
-As you start planning your composition, consider: What have you been working on, in or out of this class, that you'd like to show the world? What have you made, or done, or pursued? If someone were to search for you without using your name, what terms would they use in the search? What images would represent or resonate with your answers so far? Or: if the site won't focus on _you_, what group, or thing, or event would you prefer to represent, and in how many ways could you tag or subdivide _that_?
-
-See if any terms or images come to mind when you think of your subject, then work back and forth from image to word and back.
-
-## Generative constraints
-<!-- _This is last year's starting point; we'll discuss and update in class when you've produced a preview, as has been our usual process._ -->
-_To be updated after lesson 20_
 
 **Baseline criteria**
 For a minimum grade of B, all projects for this unit must:
