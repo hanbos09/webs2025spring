@@ -3,7 +3,10 @@ For this project, I created a digital scrapbook with a few pictures from my trav
 
 
 ASSETS:
-All pictures have been taken on my phone or a handheld camera owned by myself, Hannah Bosco.
+Airplane_freepik: Airplane drawing continuous single black line Plane route Vector illustration isolated on white - user2122532 - Freepik.com
+  link: https://www.freepik.com/premium-vector/airplane-drawing-continuous-single-black-line-plane-route-vector-illustration-isolated-white_45270270.htm#fromView=search&page=1&position=25&uuid=f4cd3b3f-76e4-4044-8179-30b79ef49fab&query=Airplane+
+All other pictures have been taken on my phone or a handheld camera owned by myself, Hannah Bosco.
+
 
 Reflection:
 For my website, I wanted to create a digital scrapbook for mainly myself with pictures of my travels. I knew I wanted it to be like a directory almost, where it looks kind of like a book with each location being like a chapter and the travel and local sections being like parts 1 and 2.
