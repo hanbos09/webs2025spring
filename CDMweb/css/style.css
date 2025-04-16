@@ -50,6 +50,9 @@ footer {
   font-size: 1em;
   border-radius: 10px 10px 0 0;
 }
+
+/* Removed invalid HTML code from CSS file */
+
 .photo-gallery {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
