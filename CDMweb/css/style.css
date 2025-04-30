@@ -106,3 +106,16 @@ footer {
     max-width: 900px;
     box-shadow: 0 4px 15px rgba(0,0,0,0.1);
   }
+  .hero-image {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 40px 0;
+  }
+  
+  .hero-image img {
+    max-width: 90%;
+    height: auto;
+    border-radius: 20px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);
+  }
